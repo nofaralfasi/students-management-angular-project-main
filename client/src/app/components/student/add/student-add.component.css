@@ -1,0 +1,41 @@
+form, .middle{
+	padding: 0 10px;
+}
+.required{
+	color: red;
+}
+option.ng-tns-c2-1, select{
+	color: grey;
+}
+
+.middle .fas.fa-check-circle {
+	position: absolute;
+	right: 5em;
+	top: 19%;
+	transform: translateY(-50%)
+  }
+  
+  .w3-input.w3-border {
+	border-radius: 0.25em;
+	border-style: solid;
+	/* border-width: 2px;
+	font-size: 1.5rem;
+	padding: 0.5em 4em 0.5em 2em; */
+  }
+  
+  .w3-input.w3-border:valid {
+	border-color: forestgreen;
+  }
+  
+  .w3-input.w3-border:valid + .fas.fa-check-circle::after {
+	display: initial;
+  }
+  
+  .w3-input.w3-border:invalid {
+	border-color: firebrick;
+  }
+  
+  .w3-input.w3-border:invalid + .fas.fa-check-circle {
+	display: none;
+  }
+
