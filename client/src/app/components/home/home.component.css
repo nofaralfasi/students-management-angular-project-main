@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+.w3-animate-left.w3-card-2{
+    z-index:3;
+    width:200px;
+}
+.w3-bar-item.w3-button{
+padding: 5px;
+margin: 5px;
+}
+
+.w3-main{
+    margin-left:200px;
+
+}

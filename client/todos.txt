@@ -1,0 +1,13 @@
+after deleting - option to go back (recancle the action)
+little icon with V mark after the input entered is valid 
+refactor - change getStudentList() to getStudens()
+display a prettier confirmation message when deleting a user
+correct the error message of number of chars on add form
+change state to be option choose opens
+write styles correctly
+testings
+report document
+change port to 8888
+Pagination
+sorting https://stackblitz.com/run?file=app/table-complete.ts
+install bootstrap correctly 
